@@ -10,5 +10,5 @@ The main purpose of this project is to detect hand symbols of between two player
 #### Link to YouTube working model: https://www.youtube.com/watch?v=NvAWEgTGzkg 
 
 ## Project Outline
-![alt text](get_me_home_process.png)
+![alt text](data_pipeline.png)
 
